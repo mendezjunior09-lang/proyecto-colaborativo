@@ -1,2 +1,2 @@
-# \# Proyecto de innovación web.julioguadamuz
-
+# # Proyecto de innovación web
+Eslogan corporativo del proyecto
